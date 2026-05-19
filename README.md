@@ -98,6 +98,6 @@
 
 <div align="center">
 
-> "Building systems. Breaking limits."
+> "Vivendo, aprendendo e construindo meu caminho na tecnologia."
 
 </div>
